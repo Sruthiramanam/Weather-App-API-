@@ -1,7 +1,7 @@
 // =========================
 // OpenWeather API Key
 // =========================
-const apiKey = "9fc72d4c7083c4f5fca108b543e0ae98";
+const apiKey = "YOUR_API_KEY";
 
 // HTML Elements
 const cityInput = document.getElementById("city");
